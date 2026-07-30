@@ -15,7 +15,6 @@ Aplicación web desarrollada en HTML, CSS y JavaScript que permite convertir tex
 ---
 
 ## Cómo utilizar
-
 ### Español - Morse
 
 1. Escriba un texto en la sección **Español → Morse**.
