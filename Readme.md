@@ -42,11 +42,9 @@ Resultado Morse:
 ```text
 .... --- .-.. .-   -- ..- -. -.. ---
 ```
-
 ---
 
 ## Caracteres soportados
-
 ### Letras
 
 ```text
@@ -58,3 +56,5 @@ A-Z
 ```text
 0-9
 ```
+
+
