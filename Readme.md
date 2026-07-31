@@ -13,7 +13,6 @@ Aplicación web desarrollada en HTML, CSS y JavaScript que permite convertir tex
 - No requiere instalación de dependencias.
 
 ---
-
 ## Cómo utilizar
 ### Español - Morse
 
@@ -50,11 +49,8 @@ Resultado Morse:
 ```text
 A-Z
 ```
-
 ### Números
 
 ```text
 0-9
 ```
-
-
